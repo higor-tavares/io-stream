@@ -1,0 +1,6 @@
+this code sample is on: https://docs.oracle.com/javase/tutorial/essential/io/streams.html
+In Xanadu did Kubla Khan
+A stately pleasure-dome decree:
+Where Alph, the sacred river, ran
+Through caverns measureless to man
+Down to a sunless sea.
